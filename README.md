@@ -1,2 +1,2 @@
 # Plant_Health_Classification
-This project aimed to classify plant health using low-resolution images (96x96x3). We explored image preprocessing, outlier detection, and class balancing. Utilizing custom and well-known CNNs with transfer learning, fine-tuning, ensemble methods, and test-time augmentation enhanced our approach
+The aim of this project was to classify the health status of plants based on low-resolution images (96x96x3). We explored various techniques for image preprocessing and analysis to identify outliers and balance the classes. Subsequently, we employed custom CNNs and well-known CNNs using transfer learning and fine-tuning. Additionally, we applied ensemble methods to the best models and incorporated test-time augmentation.
